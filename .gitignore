@@ -1,0 +1,38 @@
+# Compiled object files and executables
+*.o
+*.obj
+*.lo
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and temporary files
+*.log
+*.tmp
+*~
+*.swp
+*.swo
+
+# IDEs and editors
+.vscode/
+.vs/
+*.code-workspace
+
+# OS files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
